@@ -1,0 +1,16 @@
+.box{
+    background-color: #0b0423;
+    height: 100vh;
+    width: 100vw;
+}
+
+.listItems{
+    background-color: #e91e63;
+    color: white;
+    border: 1px solid black;
+}
+
+.leftDiv,.rightDiv{
+    border: 2px dashed white;
+    min-height: 364px;
+}
